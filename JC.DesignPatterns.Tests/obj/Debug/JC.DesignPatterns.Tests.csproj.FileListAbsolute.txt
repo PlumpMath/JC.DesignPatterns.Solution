@@ -1,0 +1,7 @@
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Tests\bin\Debug\JC.DesignPatterns.Tests.dll
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Tests\bin\Debug\JC.DesignPatterns.Tests.pdb
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Tests\bin\Debug\JC.DesignPatterns.Lib.dll
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Tests\bin\Debug\JC.DesignPatterns.Lib.pdb
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Tests\obj\Debug\JC.DesignPatterns.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Tests\obj\Debug\JC.DesignPatterns.Tests.dll
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Tests\obj\Debug\JC.DesignPatterns.Tests.pdb

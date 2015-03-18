@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JC.DesignPatterns.Lib", "JC.DesignPatterns.Lib\JC.DesignPatterns.Lib.csproj", "{B5326C8B-8A90-4044-BF6C-9E133C7182CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JC.DesignPatterns.Tests", "JC.DesignPatterns.Tests\JC.DesignPatterns.Tests.csproj", "{1B8DF1A4-C0CB-40F8-A57B-874F53CECD53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JC.DesignPatterns.Console.Client", "JC.DesignPatterns.Console.Client\JC.DesignPatterns.Console.Client.csproj", "{1456D310-A8A2-444F-8180-EED6BB0F7E77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5326C8B-8A90-4044-BF6C-9E133C7182CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5326C8B-8A90-4044-BF6C-9E133C7182CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5326C8B-8A90-4044-BF6C-9E133C7182CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5326C8B-8A90-4044-BF6C-9E133C7182CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8DF1A4-C0CB-40F8-A57B-874F53CECD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8DF1A4-C0CB-40F8-A57B-874F53CECD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8DF1A4-C0CB-40F8-A57B-874F53CECD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8DF1A4-C0CB-40F8-A57B-874F53CECD53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1456D310-A8A2-444F-8180-EED6BB0F7E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1456D310-A8A2-444F-8180-EED6BB0F7E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1456D310-A8A2-444F-8180-EED6BB0F7E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1456D310-A8A2-444F-8180-EED6BB0F7E77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Console.Client\bin\Debug\JC.DesignPatterns.Console.Client.exe.config
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Console.Client\bin\Debug\JC.DesignPatterns.Console.Client.exe
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Console.Client\bin\Debug\JC.DesignPatterns.Console.Client.pdb
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Console.Client\bin\Debug\JC.DesignPatterns.Lib.dll
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Console.Client\bin\Debug\JC.DesignPatterns.Lib.pdb
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Console.Client\obj\Debug\JC.DesignPatterns.Console.Client.csprojResolveAssemblyReference.cache
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Console.Client\obj\Debug\JC.DesignPatterns.Console.Client.exe
+C:\Users\jshah\Documents\GitHub\JC.DesignPatterns.Solution\JC.DesignPatterns.Console.Client\obj\Debug\JC.DesignPatterns.Console.Client.pdb
